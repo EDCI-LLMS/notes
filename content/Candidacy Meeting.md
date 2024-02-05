@@ -2,9 +2,11 @@
 ###   
 1. **Potential for Human-AI Relationships Using LLMs**
 
-- The conversation introduced the idea of AI, particularly LLMs, not as a source of truth but as a "tool" that can be used to explore unknown areas of knowledge, referencing the concept of "lygometry" as measuring what we don't know. This suggests that AI can be a partner in the exploration of knowledge, pushing the boundaries of our understanding and aiding in the discovery process.
+- The conversation introduced the idea of AI, particularly LLMs, not as a source of truth but as a "tool" that can be used to explore unknown areas of knowledge. LLMs, like ChatGPT, are not "intelligences" in the human sense but powerful tools for generating linguistic outputs. This distinction underscores the potential for a unique human-AI relationship where AI aids in exploring complex or "dark" areas of knowledge (lygometry) without pretending to replace human understanding.
     
-- The conversation highlighted the potential of AI to serve as a cognitive tool, assisting in the organization of thoughts and making connections between disparate pieces of knowledge. This aligns with the potential for AI to enhance learning by providing personalized learning experiences and insights that are beyond the capacity of human cognition alone.
+- The conversation highlighted the potential of AI to serve as a cognitive tool, assisting in the organization of thoughts and making connections between disparate pieces of knowledge. This aligns with the potential for AI to enhance learning by providing personalized learning experiences and insights that are beyond the capacity of human cognition alone.  
+
+- The concept of AI as an "artificial co-learner" rather than a traditional teacher was discussed, highlighting an innovative approach to using AI in education, where AI assists in the learning process by offering simplified explanations or connecting disparate pieces of knowledge.
     
 
 ### 2. **Types of Relationships Between TCs and AI Tools**
